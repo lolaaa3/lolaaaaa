@@ -1,23 +1,23 @@
 // Listas de imágenes
 const listaCabezas = [
-  "../assets/img/cabeza1.jpg",
-  "../assets/img/cabeza2.jpg",
-  "../assets/img/cabeza4.jpg",
-  "../assets/img/cabeza5.jpg",
+  "../lolaaaaa/assets/img/cabeza1.jpg",
+  "../lolaaaaa/assets/img/cabeza2.jpg",
+  "../lolaaaaa/assets/img/cabeza4.jpg",
+  "../lolaaaaa/assets/img/cabeza5.jpg",
 ];
 const listaTroncos = [
- "../assets/img/tronco1.jpg",
-  "../assets/img/tronco2.jpg",
-  "../assets/img/tronco3.jpg",
+ "../lolaaaaa/assets/img/tronco1.jpg",
+  "../lolaaaaa/assets/img/tronco2.jpg",
+  "../lolaaaaa/assets/img/tronco3.jpg",
 ];
 const listaPatas = [
-  "../assets/img/patas1.jpg",
-  "../assets/img/patas2.jpg",
-  "../assets/img/patas3.png",
+  "../lolaaaaa/assets/img/patas1.jpg",
+  "../lolaaaaa/assets/img/patas2.jpg",
+  "../lolaaaaa/assets/img/patas3.png",
 ];
 const listaSombrero = [
-  "../assets/img/sombrero.jpg",
-  "../assets/img/sombrero2.jpg",
+  "../lolaaaaa/assets/img/sombrero.jpg",
+  "../lolaaaaa/assets/img/sombrero2.jpg",
   
 ];
 
