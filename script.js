@@ -4,20 +4,26 @@ const listaCabezas = [
   "../lolaaaaa/assets/img/cabeza2.jpg",
   "../lolaaaaa/assets/img/cabeza4.jpg",
   "../lolaaaaa/assets/img/cabeza5.jpg",
+  "../lolaaaaa/assets/img/cabeza6.png",
 ];
 const listaTroncos = [
  "../lolaaaaa/assets/img/tronco1.jpg",
   "../lolaaaaa/assets/img/tronco2.jpg",
   "../lolaaaaa/assets/img/tronco3.jpg",
+  "../lolaaaaa/assets/img/tronco4.png",
+  "../lolaaaaa/assets/img/tronco5.png",
+   "../lolaaaaa/assets/img/tronco6.png",
 ];
 const listaPatas = [
   "../lolaaaaa/assets/img/patas1.jpg",
   "../lolaaaaa/assets/img/patas2.jpg",
   "../lolaaaaa/assets/img/patas3.png",
+   "../lolaaaaa/assets/img/patas4.png",
 ];
 const listaSombrero = [
   "../lolaaaaa/assets/img/sombrero.jpg",
   "../lolaaaaa/assets/img/sombrero2.jpg",
+  "../lolaaaaa/assets/img/sombrero3.png",
   
 ];
 
